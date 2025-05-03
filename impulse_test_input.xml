@@ -1,0 +1,26 @@
+<ITCompany>
+    <QA>
+        <id>101</id>
+        <name>Quality Assurance Engineer</name>
+        <responsibilities>Testing software, reporting bugs, ensuring quality</responsibilities>
+        <skills>Automation, Manual Testing, Selenium, JIRA</skills>
+    </QA>
+    <Developer>
+        <id>102</id>
+        <name>Software Developer</name>
+        <responsibilities>Writing code, implementing features, debugging</responsibilities>
+        <skills>Python, Java, C++, Git</skills>
+    </Developer>
+    <ProjectManager>
+        <id>103</id>
+        <name>Project Manager</name>
+        <responsibilities>Managing teams, planning sprints, ensuring deadlines</responsibilities>
+        <skills>Scrum, Agile, Leadership, Communication</skills>
+    </ProjectManager>
+    <DevOps>
+        <id>104</id>
+        <name>DevOps Engineer</name>
+        <responsibilities>Automating deployment, managing infrastructure, monitoring systems</responsibilities>
+        <skills>Docker, Kubernetes, CI/CD, Cloud Services</skills>
+    </DevOps>
+</ITCompany>
