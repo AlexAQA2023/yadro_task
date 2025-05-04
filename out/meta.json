@@ -1,0 +1,88 @@
+{
+    "classes": [
+        {
+            "name": "QA",
+            "attributes": [
+                {
+                    "name": "id",
+                    "type": "string"
+                },
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "responsibilities",
+                    "type": "string"
+                },
+                {
+                    "name": "skills",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "Developer",
+            "attributes": [
+                {
+                    "name": "id",
+                    "type": "string"
+                },
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "responsibilities",
+                    "type": "string"
+                },
+                {
+                    "name": "skills",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "ProjectManager",
+            "attributes": [
+                {
+                    "name": "id",
+                    "type": "string"
+                },
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "responsibilities",
+                    "type": "string"
+                },
+                {
+                    "name": "skills",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "DevOps",
+            "attributes": [
+                {
+                    "name": "id",
+                    "type": "string"
+                },
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "responsibilities",
+                    "type": "string"
+                },
+                {
+                    "name": "skills",
+                    "type": "string"
+                }
+            ]
+        }
+    ]
+}
